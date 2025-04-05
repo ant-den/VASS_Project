@@ -1,0 +1,24 @@
+
+[
+  {
+    "title": "Fix login bug",
+    "description": "Resolve the issue with user login.",
+    "type": "Bug",
+    "createdOn": "2025-03-25",
+    "status": "Pending"
+  },
+  {
+    "title": "Add search feature",
+    "description": "Implement a search bar for tasks.",
+    "type": "Feature",
+    "createdOn": "2025-03-20",
+    "status": "In Progress"
+  },
+  {
+    "title": "Update documentation",
+    "description": "Update the project documentation.",
+    "type": "Task",
+    "createdOn": "2025-03-15",
+    "status": "Completed"
+  }
+]
